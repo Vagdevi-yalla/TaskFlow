@@ -7,7 +7,7 @@ app.use(cors());
 const port = 3010;
 
 app.get('/', (req, res) => {
-  res.send('Welcome to task-Buddy');
+  res.send('Welcome to Task-Flow');
 });
 
 //Data Structure
